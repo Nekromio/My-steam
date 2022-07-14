@@ -4,6 +4,9 @@ Detailed information about the players
 
 Video instructions https://youtu.be/Vz3lGdLggmQ
 
+sm_st - my steam
+sm_stm - menu
+
 Requirements:
 1. SteamWorks https://forums.alliedmods.net/showthread.php?t=229556
 2. morecolors https://forums.alliedmods.net/showthread.php?t=185016
@@ -11,6 +14,9 @@ Requirements:
 
 
 Видеоинструкция https://youtu.be/Vz3lGdLggmQ
+
+sm_st - мой стим
+sm_stm - меню
 
 Требования:
 1. SteamWorks https://forums.alliedmods.net/showthread.php?t=229556
